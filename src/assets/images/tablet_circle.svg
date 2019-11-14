@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="40px" viewBox="0 0 39 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.148678899 37.3160056 0.148678899 37.3160056 37.5435413 0 37.5435413"></polygon>
+        <polygon id="path-3" points="0 39.8513761 38.9652113 39.8513761 38.9652113 0.183486239 0 0.183486239"></polygon>
+        <linearGradient x1="49.9998871%" y1="-0.75474392%" x2="49.9998871%" y2="99.4161516%" id="linearGradient-5">
+            <stop stop-color="#DCDCDC" offset="0%"></stop>
+            <stop stop-color="#F3F3F3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9998871%" y1="94.959825%" x2="49.9998871%" y2="-6.19503685%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-1-Copy" transform="translate(-109.000000, -703.000000)">
+            <g id="Group-5" transform="translate(68.000000, 171.000000)">
+                <g id="Group-14" transform="translate(41.000000, 532.000000)">
+                    <path d="M38.4158423,20.6033945 C38.4158423,30.9298165 30.0623352,39.3008257 19.7579127,39.3008257 C9.45330704,39.3008257 1.0998,30.9298165 1.0998,20.6033945 C1.0998,10.277156 9.45330704,1.9059633 19.7579127,1.9059633 C30.0623352,1.9059633 38.4158423,10.277156 38.4158423,20.6033945" id="Fill-1" fill="#E9E9E9"></path>
+                    <g id="Group-5" transform="translate(0.000000, 0.034862)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <path d="M37.3160056,18.8461101 C37.3160056,29.1725321 28.9624986,37.5435413 18.6580761,37.5435413 C8.35347042,37.5435413 -3.66197183e-05,29.1725321 -3.66197183e-05,18.8461101 C-3.66197183e-05,8.51987156 8.35347042,0.148678899 18.6580761,0.148678899 C28.9624986,0.148678899 37.3160056,8.51987156 37.3160056,18.8461101" id="Fill-3" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M35.0478352,18.8809725 C35.0478352,27.9521651 27.709793,35.3055596 18.6579479,35.3055596 C9.60610282,35.3055596 2.26806056,27.9521651 2.26806056,18.8809725 C2.26806056,9.8099633 9.60610282,2.45638532 18.6579479,2.45638532 C27.709793,2.45638532 35.0478352,9.8099633 35.0478352,18.8809725" id="Fill-6" fill="#F6F6F6"></path>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-9"></g>
+                    <polygon id="Fill-8" fill="#FFFFFF" mask="url(#mask-4)" points="0.76315493 20.2585321 36.5527042 20.2585321 36.5527042 17.5034862 0.76315493 17.5034862"></polygon>
+                    <polygon id="Fill-10" fill="url(#linearGradient-5)" mask="url(#mask-4)" points="2.31839437 18.4994495 34.9976479 18.4994495 34.9976479 17.5034862 2.31839437 17.5034862"></polygon>
+                    <polygon id="Fill-12" fill="url(#linearGradient-6)" mask="url(#mask-4)" points="2.31839437 20.2585321 34.9976479 20.2585321 34.9976479 19.2625688 2.31839437 19.2625688"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

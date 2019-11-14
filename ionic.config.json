@@ -1,5 +1,8 @@
 {
   "name": "rapha",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }

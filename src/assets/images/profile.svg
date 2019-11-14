@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Profile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30" rx="7.89473684"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header" transform="translate(-320.000000, -25.000000)">
+            <g id="Profile" transform="translate(320.000000, 25.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#AABFBF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(5.000000, 4.000000)">
+                        <rect id="Rectangle" fill="#FFFFFF" x="4" y="0" width="12" height="4"></rect>
+                        <rect id="Rectangle-Copy-19" fill="#FFFFFF" x="-2.27373675e-13" y="4" width="8" height="4"></rect>
+                        <rect id="Rectangle-Copy-21" fill="#FFFFFF" x="-2.27373675e-13" y="12" width="8" height="4"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="4" width="4" height="18"></rect>
+                        <rect id="Rectangle-Copy-23" fill="#FFFFFF" x="16" y="4" width="4" height="18"></rect>
+                        <rect id="Rectangle" fill="#192324" x="8" y="8" width="4" height="4"></rect>
+                        <rect id="Rectangle-Copy-20" fill="#FFFFFF" x="12" y="4" width="8" height="4"></rect>
+                        <rect id="Rectangle-Copy-22" fill="#FFFFFF" x="12" y="12" width="8" height="4"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

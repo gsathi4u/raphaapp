@@ -1,0 +1,29 @@
+<ion-content>
+    <div id="content">
+        <nav class="navbar navbar-expand-lg navbar-light ">
+          <div class="container-fluid">
+            <button type="button" id="sidebarCollapse" class="btn btn-info rp-btn-info"> <i class="fas fa-align-left"></i> </button>
+          </div>
+        </nav>
+        <div class="rp-logo--page"> <img src="assets/images/logo.png" class="rp-logo--large rp-m-top-x--xlarge" /> </div>
+        <div class="rp-login-bg rp-box-shadow rp-m-top--large">
+          <div class="rp-header--large rp-bold">Enter OTP</div>
+          <div class="rp-txt-default rp-txt-size-default rp-m-bottom--large rp-m-top-x--small">We have sent you an SMS on +91-9876543210 with 6 digit OTP. Please enter OTP below to verify.</div>
+          <div class="rp-m-bottom--large">
+            <ul class="rp-form-otp rp-m-bottom--large">
+              <li><input type="text" class="rp-otp-input" /></li>
+              <li><input type="text" class="rp-otp-input" /></li>
+              <li><input type="text" class="rp-otp-input" /></li>
+              <li><input type="text" class="rp-otp-input" /></li>
+              <li><input type="text" class="rp-otp-input" /></li>
+              <li><input type="text" class="rp-otp-input" /></li>
+            </ul>
+          </div>
+          <div class="rp-block rp-green-block rp-txtalign--center rp-cursor-p rp-box-shadow" (click)="submitOtp()">Submit</div>
+        <div class="rp-resend-otp rp-m-top--large">Didn’t receive OTP? <a href="" class="rp-anchor">Resend</a></div>
+        </div>
+      </div>
+    <div class="rp-livehealthy">live healthy</div>
+    <div class="overlay"></div>
+    
+</ion-content>

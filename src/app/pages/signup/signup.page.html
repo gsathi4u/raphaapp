@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-toolbar color="rapha">
+    <ion-title>Sign Up</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div id="content">
+    <nav class="navbar navbar-expand-lg navbar-light ">
+      <div class="container-fluid">
+        <button type="button" id="sidebarCollapse" class="btn btn-info rp-btn-info"> <i class="fas fa-align-left"></i>
+        </button>
+      </div>
+    </nav>
+    <div class="rp-logo--page"> <img src="assets/images/logo.png"
+        class="rp-logo--large rp-m-top-x--xlarge rp-m-bottom-x--xlarge" /> </div>
+    <div class="row rp-m-bottom--large rp-m-top-x--xlarge rp-m-right-z rp-m-left-z">
+      <ion-button id="customBtn" class="customGPlusSignIn rp-box-shadow" expand="clear" share="round"
+        (click)="signUpWithGoogle()">
+        <span class="g-icon"><img src="assets/images/g-normal.png" /></span>
+        <span class="buttonText">
+          Sign in with Google
+        </span>
+      </ion-button>
+
+    </div>
+    <div
+      class="">
+      <div class="col-sm"> <ion-button class="row rp-block rp-green-block rp-cursor-p rp-box-shadow rp-clear--both rp-m-top--large rp-m-right-z rp-m-left-z rp-txtalign--center" expand="clear" share="round" (click)="signUp()">
+          Mobile number/E-mail</ion-button></div>
+    </div>
+  </div>
+  <div class="rp-livehealthy">live healthy</div>
+  <div class="overlay"></div>
+</ion-content>

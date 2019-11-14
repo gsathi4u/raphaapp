@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Taskbar/Home" transform="translate(-35.000000, -21.000000)" fill-rule="nonzero">
+            <g id="Group-11">
+                <g transform="translate(35.000000, 21.000000)">
+                    <g id="Group" transform="translate(0.820431, 0.629853)">
+                        <path d="M20.8689343,12.497089 L20.8689343,22.3189911 L3.77328743,22.3189911 L3.77328743,12.497089 L1.03986849,12.497089 C0.487583737,12.497089 0.0398684872,12.0493738 0.0398684872,11.497089 C0.0398684872,11.2208683 0.154121481,10.95695 0.355532422,10.7679223 L11.6367748,0.180274061 C12.0215421,-0.180836939 12.6206796,-0.180836939 13.0054469,0.180274061 L24.2866893,10.7679223 C24.689397,11.1458706 24.7094684,11.7787174 24.33152,12.1814251 C24.1424922,12.382836 23.8785739,12.497089 23.6023533,12.497089 L20.8689343,12.497089 Z" id="Combined-Shape" fill="#39BDBE"></path>
+                        <rect id="Rectangle" fill="#043E3F" x="8.91202041" y="12.921872" width="6.81818182" height="12"></rect>
+                        <rect id="Rectangle-Copy-17" fill="#FFFFFF" x="8.91202041" y="12.3701471" width="6.81818182" height="8"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

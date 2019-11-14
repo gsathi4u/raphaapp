@@ -1,0 +1,53 @@
+<ion-header>
+  <ion-toolbar color="rapha">
+    <ion-title>Login</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content padding='true'>
+  <!-- <div class="center">
+    <img src="assets/images/logo.png" class="smallLogo"/>
+    <h1>Sign In</h1>
+  </div>
+<form>
+  <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Username</ion-label>
+      <ion-input autocomplete="off" type="text" name="username" [(ngModel)]="postData.username"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Password</ion-label>
+      <ion-input autocomplete="off" type="password" name="password" [(ngModel)]="postData.password"></ion-input>
+    </ion-item>
+
+    <ion-item lines='none'>
+      <a routerLink='/signup'>Create Account</a>
+    </ion-item>
+  </ion-list>
+  <ion-button expand="block" share="round" color="success" (click)="loginAction()">Login</ion-button>
+</form> -->
+  <div id="content">
+    <nav class="navbar navbar-expand-lg navbar-light ">
+      <div class="container-fluid">
+        <button type="button" id="sidebarCollapse" class="btn btn-info rp-btn-info"> <i class="fas fa-align-left"></i>
+        </button>
+      </div>
+    </nav>
+    <div class="rp-logo--page"> <img src="assets/images/logo.png"
+        class="rp-logo--large rp-m-top-x--xlarge rp-m-bottom-x--xlarge" /> </div>
+    <div class="rp-login-bg rp-box-shadow rp-m-top--large">
+      <div class="rp-header--large rp-bold rp-m-bottom--large">Let’s live healthy</div>
+      <div class="rp-form-group rp-m-bottom--large">
+        <label>Mobile number</label>
+        <input type="text" class="rp-form-control input-lg" />
+      </div>
+      <div class="rp-form-group rp-m-bottom--large">
+        <label>Email id</label>
+        <input type="text" class="rp-form-control input-lg" />
+      </div>
+      <ion-button class="rp-block rp-green-block rp-txtalign--center rp-cursor-p rp-box-shadow" expand="clear" share="round" (click)="loginAction()">Login</ion-button>
+    </div>
+    <div class="rp-livehealthy">live healthy</div>
+  </div>
+  <div class="overlay"></div>
+</ion-content>

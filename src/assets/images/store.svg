@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 12 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Taskbar/Home" transform="translate(-306.000000, -22.000000)" fill-rule="nonzero">
+            <g id="Group-12-Copy">
+                <g transform="translate(306.000000, 22.000000)">
+                    <circle id="Oval" fill="#39BDBE" cx="12.5" cy="12.5" r="12.5"></circle>
+                    <rect id="Rectangle" fill="#FFFFFF" x="9.61538462" y="3.84615385" width="5.76923077" height="17.3076923" rx="0.961538462"></rect>
+                    <path d="M10.5769231,3.84615385 L14.4230769,3.84615385 C14.95412,3.84615385 15.3846154,4.27664928 15.3846154,4.80769231 L15.3846154,20.1923077 C15.3846154,20.7233507 14.95412,21.1538462 14.4230769,21.1538462 L10.5769231,21.1538462 C10.04588,21.1538462 9.61538462,20.7233507 9.61538462,20.1923077 L9.61538462,4.80769231 C9.61538462,4.27664928 10.04588,3.84615385 10.5769231,3.84615385 Z" id="Rectangle-Copy-18" fill="#FFFFFF" transform="translate(12.500000, 12.500000) rotate(90.000000) translate(-12.500000, -12.500000) "></path>
+                    <rect id="Rectangle" fill="#043E3F" x="10.5769231" y="10.5769231" width="3.84615385" height="3.84615385"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
